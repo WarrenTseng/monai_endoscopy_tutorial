@@ -1,4 +1,4 @@
-These materials were developed with nvcr.io/nvidia/tritonserver:22.07-py3 (server) and nvcr.io/nvidia/tritonserver:22.07-py3-sdk (client) containers.
+These materials were developed with nvcr.io/nvidia/tritonserver:22.07-py3 (server) and nvcr.io/nvidia/tritonserver:22.07-py3-sdk (client) containers. </br>
 Link: https://catalog.ngc.nvidia.com/orgs/nvidia/containers/tritonserver/tags
 
 ---
