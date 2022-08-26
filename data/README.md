@@ -1,0 +1,1 @@
+The dataset we used is from Kvasir-SEG dataset https://datasets.simula.no/kvasir-seg/
