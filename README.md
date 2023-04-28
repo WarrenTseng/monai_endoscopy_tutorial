@@ -6,3 +6,4 @@ Please follow the steps below:
 4. <a href="https://github.com/WarrenTseng/monai_endoscopy_tutorial/tree/main/TensorRT">TensorRT</a>
 5. <a href="https://github.com/WarrenTseng/monai_endoscopy_tutorial/tree/main/MONAIDeploy">MONAIDeploy</a>
 6. <a href="https://github.com/WarrenTseng/monai_endoscopy_tutorial/tree/main/Triton_Inference_Server">Triton Inference Server</a>
+(Optional) <a href="https://github.com/WarrenTseng/monai_endoscopy_tutorial/tree/main/MONAIGenAI">MONAI Generative AI</a>
