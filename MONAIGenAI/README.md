@@ -1,1 +1,1 @@
-This tutorial is based on MONAI GenerativeModel 0.1.0
+This tutorial is based on MONAI GenerativeModel 0.2.2
